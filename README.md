@@ -26,6 +26,11 @@ Ability of the system to detect hands of multiple people at the same time (max. 
 Press 2 to upload image and detect the gesture.
 ![image](https://github.com/h-monishraj-1/Upgraded-Hand-Gesture-Recognition-System-Human-Computer-Interaction/assets/125763607/950ce05b-3c0a-490f-a59a-325351879692)
 
+Find our project at DevFolio at well!
+https://devfolio.co/projects/upgradedhandgesturerecognitionsystem-8200
+![image](https://github.com/user-attachments/assets/3e2525ec-9e34-424c-be74-997fca8ab9a0)
+
+
 
 
 
